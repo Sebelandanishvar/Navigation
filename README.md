@@ -20,7 +20,8 @@ The state space is composed of 37 dimensions and contains the agent's velocity, 
 During the course of 100 consecutive episodes, the agent must achieve an average score of +15 in order to solve the environment.
 ### Getting Started
 
-1. Please click on one of the links below to download the environment. The only thing you need to do is select the appropriate environment for your operating system:    - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
+1. Please click on one of the links below to download the environment. The only thing you need to do is select the appropriate environment for your operating system:    
+    - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
     - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
