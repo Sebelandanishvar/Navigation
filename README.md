@@ -20,7 +20,12 @@ The state space is composed of 37 dimensions and contains the agent's velocity, 
 During the course of 100 consecutive episodes, the agent must achieve an average score of +15 in order to solve the environment.
 ### Getting Started
 
-1. Please click on one of the links below to download the environment. The only thing you need to do is select the appropriate environment for your operating system:    
+
+1. Clone the repository git clone https://github.com/ethanchoi/udacity-p1-navigation.git
+
+    To set up your Python environment, please follow the instructions in the DRLND GitHub repository (https://github.com/udacity/deep-reinforcement-    learning#dependencies). PyTorch, ML-Agents, and several other Python packages are required to complete this project.
+
+2. Please click on one of the links below to download the environment. The only thing you need to do is select the appropriate environment for your operating system:    
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
     - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
@@ -30,7 +35,7 @@ During the course of 100 consecutive episodes, the agent must achieve an average
 
     (_For AWS_) If you'd like to train the agent on AWS (and have not [enabled a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md)), then please use [this link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip) to obtain the environment.
 
-2. Clone or download the GitHub repository and unzip (or decompress) the files. 
+3. Unzip (or decompress) the file in the 'udacity_p1-navigation/folder' in the DRLND GitHub repository. 
 
 ### Instructions
 
